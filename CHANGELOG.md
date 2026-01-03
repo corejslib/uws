@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.11.27 (2026-01-03)
+
+**Bug fixes:**
+
+- \[PATCH] fix: update actions version (● [8481c8d](https://github.com/c0rejs/uws/commit/8481c8d); 👬 zdm)
+
+Compare with the previous release: [v2.11.26](https://github.com/c0rejs/uws/compare/v2.11.26...v2.11.27)
+
 ### v2.11.26 (2026-01-03)
 
 **Bug fixes:**
