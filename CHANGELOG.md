@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.11.24 (2026-01-03)
+
+**Other changes:**
+
+- build: update workflow actions (● [e058d5d](https://github.com/c0rejs/uws/commit/e058d5d); 👬 zdm)
+
+Compare with the previous release: [v2.11.23](https://github.com/c0rejs/uws/compare/v2.11.23...v2.11.24)
+
 ### v2.11.23 (2025-12-11)
 
 **Other changes:**
