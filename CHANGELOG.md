@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.11.26 (2026-01-03)
+
+**Bug fixes:**
+
+- \[PATCH] fix: add version to action spec (● [f4c1d9e](https://github.com/c0rejs/uws/commit/f4c1d9e); 👬 zdm)
+
+Compare with the previous release: [v2.11.25](https://github.com/c0rejs/uws/compare/v2.11.25...v2.11.26)
+
 ### v2.11.25 (2026-01-03)
 
 **Bug fixes:**
