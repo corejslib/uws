@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.11.29 (2026-01-16)
+
+**Other changes:**
+
+- build(deps): bump uws\@20.57.0 (● [4e97207](https://github.com/c0rejs/uws/commit/4e97207); 👬 zdm)
+
+Compare with the previous release: [v2.11.28](https://github.com/c0rejs/uws/compare/v2.11.28...v2.11.29)
+
 ### v2.11.28 (2026-01-05)
 
 **Other changes:**
