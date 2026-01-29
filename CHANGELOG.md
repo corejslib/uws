@@ -1,5 +1,11 @@
 # Changelog
 
+### v2.11.32 (2026-01-29)
+
+No changes since the previous release.
+
+Compare with the previous release: [v2.11.31](https://github.com/c0rejs/uws/compare/v2.11.31...v2.11.32)
+
 ### v2.11.31 (2026-01-28)
 
 **Other changes:**
