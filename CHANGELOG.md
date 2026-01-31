@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.11.33 (2026-01-31)
+
+**Other changes:**
+
+- chore: rename package (● [369b906](https://github.com/corejslib/uws/commit/369b906); 👬 zdm)
+
+Compare with the previous release: [v2.11.32](https://github.com/corejslib/uws/compare/v2.11.32...v2.11.33)
+
 ### v2.11.32 (2026-01-29)
 
 No changes since the previous release.
