@@ -8,7 +8,7 @@ export default class ExternalResource extends ExternalResourceBuilder {
     constructor ( file, id, meta ) {
         super( {
             ...id,
-            "id": "c0rejs/uws",
+            "id": "corejslib/uws",
             "caller": import.meta.url,
         } );
 

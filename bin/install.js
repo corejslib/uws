@@ -1,9 +1,9 @@
 #!/usr/bin/env node
 
-import externalResources from "@c0rejs/utils/external-resources";
+import externalResources from "@corejslib/utils/external-resources";
 
 externalResources.add( {
-    "id": "c0rejs/uws",
+    "id": "corejslib/uws",
     "node": true,
     "caller": import.meta.url,
 } );

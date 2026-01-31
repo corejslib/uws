@@ -1,15 +1,15 @@
 {
-    "name": "@c0rejs/uws",
+    "name": "@corejslib/uws",
     "version": "2.11.32",
     "description": "uWebsocket.js re-packed",
-    "homepage": "https://c0rejs.github.io/uws/",
+    "homepage": "https://corejslib.github.io/uws/",
     "bugs": {
-        "url": "https://github.com/c0rejs/uws/issues",
+        "url": "https://github.com/corejslib/uws/issues",
         "email": "root <root@softvisio.net>"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/c0rejs/uws.git"
+        "url": "git+https://github.com/corejslib/uws.git"
     },
     "license": "ISC",
     "author": "root <root@softvisio.net>",
@@ -28,6 +28,6 @@
         "install": "node bin/install.js"
     },
     "peerDependencies": {
-        "@c0rejs/utils": "^2.0.0"
+        "@corejslib/utils": "^2.0.0"
     }
 }

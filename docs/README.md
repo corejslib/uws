@@ -5,11 +5,11 @@ Repacked version of [uWebSocket.js](https://github.com/uNetworking/uWebSockets.j
 ## Install
 
 ```sh
-npm install @c0rejs/uws
+npm install @corejslib/uws
 ```
 
 ## Usage
 
 ```javascript
-import uws from "@c0rejs/uws";
+import uws from "@corejslib/uws";
 ```
