@@ -1,5 +1,11 @@
 # Changelog
 
+### v2.11.39 (2026-03-06)
+
+No changes since the previous release.
+
+Compare with the previous release: [v2.11.38](https://github.com/corejslib/uws/compare/v2.11.38...v2.11.39)
+
 ### v2.11.38 (2026-03-06)
 
 **Other changes:**
