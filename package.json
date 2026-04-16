@@ -1,6 +1,6 @@
 {
     "name": "@corejslib/uws",
-    "version": "2.11.50",
+    "version": "2.11.51",
     "description": "uWebsocket.js re-packed",
     "homepage": "https://corejslib.github.io/uws/",
     "bugs": {

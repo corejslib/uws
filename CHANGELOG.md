@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.11.51 (2026-04-16)
+
+**Other changes:**
+
+- build(deps): bunp uws\@20.64.0 (● [efa9e1d](https://github.com/corejslib/uws/commit/efa9e1d); 👬 zdm)
+
+Compare with the previous release: [v2.11.50](https://github.com/corejslib/uws/compare/v2.11.50...v2.11.51)
+
 ### v2.11.50 (2026-04-09)
 
 **Other changes:**
