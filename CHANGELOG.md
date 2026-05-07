@@ -1,5 +1,15 @@
 # Changelog
 
+### v2.11.55 (2026-05-07)
+
+**Other changes:**
+
+- build(deps): bunp uws\@20.67.0 (● [d70f045](https://github.com/corejslib/uws/commit/d70f045); 👬 zdm)
+
+- chore: remove index.d.ts (● [d547662](https://github.com/corejslib/uws/commit/d547662); 👬 zdm)
+
+Compare with the previous release: [v2.11.54...v2.11.55](https://github.com/corejslib/uws/compare/v2.11.54...v2.11.55)
+
 ### v2.11.54 (2026-04-24)
 
 **Other changes:**
