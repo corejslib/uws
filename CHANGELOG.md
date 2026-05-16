@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.11.57 (2026-05-16)
+
+**Other changes:**
+
+- docs: update readme (● [5b1d198](https://github.com/corejslib/uws/commit/5b1d198); 👬 zdm)
+
+Compare with the previous release: [v2.11.56...v2.11.57](https://github.com/corejslib/uws/compare/v2.11.56...v2.11.57)
+
 ### v2.11.56 (2026-05-07)
 
 **Code refactoring:**
