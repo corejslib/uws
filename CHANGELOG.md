@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.11.58 (2026-05-16)
+
+**Other changes:**
+
+- docs: remove (● [7880faa](https://github.com/corejslib/uws/commit/7880faa); 👬 zdm)
+
+Compare with the previous release: [v2.11.57...v2.11.58](https://github.com/corejslib/uws/compare/v2.11.57...v2.11.58)
+
 ### v2.11.57 (2026-05-16)
 
 **Other changes:**
