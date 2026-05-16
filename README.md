@@ -1,6 +1,7 @@
 <!-- !!! DO NOT EDIT, THIS FILE IS GENERATED AUTOMATICALLY !!!  -->
 
-> ℹ️ Please, see the full project documentation here:<br><https://corejslib.github.io/uws/>
+> \[!NOTE]
+> Please, see the full project documentation here:<br><https://corejslib.github.io/uws/>
 
 # Introduction
 
