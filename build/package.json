@@ -2,7 +2,7 @@
     "name": "@corejslib/uws-build",
     "version": "2.11.59",
     "private": true,
-    "homepage": "https://github.com/corejslib/uws",
+    "homepage": "https://corejslib.github.io/uws/",
     "bugs": {
         "url": "https://github.com/corejslib/uws/issues",
         "email": "root <root@softvisio.net>"
