@@ -2,7 +2,7 @@
     "name": "@corejslib/uws",
     "version": "2.11.60",
     "description": "uWebsocket.js re-packed",
-    "homepage": "https://github.com/corejslib/uws",
+    "homepage": "https://github.com/corejslib/uws?tab=readme-ov-file#readme",
     "bugs": {
         "url": "https://github.com/corejslib/uws/issues",
         "email": "root <root@softvisio.net>"
