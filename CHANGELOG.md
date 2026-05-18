@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.11.59 (2026-05-18)
+
+**Other changes:**
+
+- chore(metadata): update package metadata (● [58fa2bc](https://github.com/corejslib/uws/commit/58fa2bc); 👬 zdm)
+
+Compare with the previous release: [v2.11.58...v2.11.59](https://github.com/corejslib/uws/compare/v2.11.58...v2.11.59)
+
 ### v2.11.58 (2026-05-16)
 
 **Other changes:**
