@@ -13,7 +13,8 @@ jobs:
       image: ghcr.io/zerocluster/node
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        HOME: /root
+    env:
+      HOME: /root
     steps:
       - uses: softvisio/actions/setup-npm@v1
 
