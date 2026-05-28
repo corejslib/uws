@@ -16,20 +16,12 @@ jobs:
     env:
       HOME: /root
     steps:
-      - uses: softvisio/actions/setup-npm@v1
-
       - uses: softvisio/actions/checkout@v1
 
       - run: |
           apt-get update
           apt-get install -y git
           cd build
-          echo -------------------------
-          whoami
-          realpath ~
-          ls -la ~
-          cat ~/.npmrc
-          echo ============================
           npm install --ignore-scripts
           npm run build
         shell: bash
