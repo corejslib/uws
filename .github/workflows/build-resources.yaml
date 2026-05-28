@@ -11,9 +11,9 @@ jobs:
     runs-on: ubuntu-latest
     container:
       image: ghcr.io/zerocluster/node
-      options: --user root
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        HOME: /root
     steps:
       - uses: softvisio/actions/setup-npm@v1
 
