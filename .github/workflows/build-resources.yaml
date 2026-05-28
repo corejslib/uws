@@ -11,6 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     container:
       image: ghcr.io/zerocluster/node
+      options: --user root
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     steps:
@@ -23,12 +24,8 @@ jobs:
           apt-get install -y git
           cd build
           echo -------------------------
-          echo $GITHUB_TOKEN
-          echo ${{ github.actor }}
-          echo ${{ secrets.GITHUB_TOKEN }}
+          whoami
           realpath ~
-          cat /etc/os-release
-          env | sort
           ls -la ~
           cat ~/.npmrc
           echo ============================
