@@ -22,7 +22,10 @@ jobs:
           apt-get update
           apt-get install -y git
           cd build
+          echo -------------------------
+          ls -la ~
           cat ~/.npmrc
+          echo ============================
           npm install --ignore-scripts
           npm run build
         shell: bash
