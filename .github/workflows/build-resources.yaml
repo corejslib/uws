@@ -23,6 +23,12 @@ jobs:
           apt-get install -y git
           cd build
           echo -------------------------
+          echo $GITHUB_TOKEN
+          echo ${{ github.actor }}
+          echo ${{ secrets.GITHUB_TOKEN }}
+          realpath ~
+          cat /etc/os-release
+          env | sort
           ls -la ~
           cat ~/.npmrc
           echo ============================
