@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.11.62 (2026-05-28)
+
+**Other changes:**
+
+- build: remove registries from .npmrc (● [daa7f3d](https://github.com/corejslib/uws/commit/daa7f3d); 👬 zdm)
+
+Compare with the previous release: [v2.11.61...v2.11.62](https://github.com/corejslib/uws/compare/v2.11.61...v2.11.62)
+
 ### v2.11.61 (2026-05-18)
 
 **Other changes:**
