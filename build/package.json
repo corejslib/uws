@@ -1,6 +1,6 @@
 {
     "name": "@corejslib/uws-build",
-    "version": "2.11.63",
+    "version": "2.11.64-alpha.0",
     "private": true,
     "homepage": "https://github.com/corejslib/uws?tab=readme-ov-file#readme",
     "bugs": {
