@@ -1,5 +1,25 @@
 # Changelog
 
+### v2.11.64 (2026-05-28)
+
+**Bug fixes:**
+
+- \[PATCH] fix: fix build resources (● [f94f84f](https://github.com/corejslib/uws/commit/f94f84f), [0af951b](https://github.com/corejslib/uws/commit/0af951b), [45623d6](https://github.com/corejslib/uws/commit/45623d6), [31b7ccd](https://github.com/corejslib/uws/commit/31b7ccd), [c04aae2](https://github.com/corejslib/uws/commit/c04aae2), [09c4f43](https://github.com/corejslib/uws/commit/09c4f43), [45a1927](https://github.com/corejslib/uws/commit/45a1927); 👬 zdm)
+
+**Included pre-releases:**
+
+- build(release): release v2.11.64-alpha.0 (● [7673281](https://github.com/corejslib/uws/commit/7673281); 👬 zdm)
+
+- build(release): release v2.11.64-alpha.1 (● [eb98c14](https://github.com/corejslib/uws/commit/eb98c14); 👬 zdm)
+
+- build(release): release v2.11.64-alpha.2 (● [f1cf25b](https://github.com/corejslib/uws/commit/f1cf25b); 👬 zdm)
+
+- build(release): release v2.11.64-alpha.3 (● [f85f561](https://github.com/corejslib/uws/commit/f85f561); 👬 zdm)
+
+- build(release): release v2.11.64-alpha.4 (● [3c35cac](https://github.com/corejslib/uws/commit/3c35cac); 👬 zdm)
+
+Compare with the previous release: [v2.11.63...v2.11.64](https://github.com/corejslib/uws/compare/v2.11.63...v2.11.64)
+
 ### v2.11.64-alpha.4 (2026-05-28)
 
 **Bug fixes:**
