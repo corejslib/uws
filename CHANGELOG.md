@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.11.64-alpha.3 (2026-05-28)
+
+**Bug fixes:**
+
+- \[PATCH] fix: fix build resources (● [31b7ccd](https://github.com/corejslib/uws/commit/31b7ccd); 👬 zdm)
+
+Compare with the previous release: [v2.11.64-alpha.2...v2.11.64-alpha.3](https://github.com/corejslib/uws/compare/v2.11.64-alpha.2...v2.11.64-alpha.3)
+
 ### v2.11.64-alpha.2 (2026-05-28)
 
 **Bug fixes:**
