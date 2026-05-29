@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.11.65 (2026-05-29)
+
+**Bug fixes:**
+
+- \[PATCH] fix: fix gh actions (● [d9ae08f](https://github.com/corejslib/uws/commit/d9ae08f); 👬 zdm)
+
+Compare with the previous release: [v2.11.64...v2.11.65](https://github.com/corejslib/uws/compare/v2.11.64...v2.11.65)
+
 ### v2.11.64 (2026-05-28)
 
 **Bug fixes:**
