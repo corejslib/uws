@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.11.67 (2026-07-06)
+
+**Other changes:**
+
+- build(deps): bunp @corejslib/core@^8.0.0 (● [787dc70](https://github.com/corejslib/uws/commit/787dc70); 👬 zdm)
+
+Compare with the previous release: [v2.11.66...v2.11.67](https://github.com/corejslib/uws/compare/v2.11.66...v2.11.67)
+
 ### v2.11.66 (2026-05-31)
 
 **Other changes:**
