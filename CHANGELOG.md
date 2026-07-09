@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.11.68 (2026-07-09)
+
+**Code refactoring:**
+
+- \[PATCH] refactor: allow npm git sources (● [4d81282](https://github.com/corejslib/uws/commit/4d81282); 👬 zdm)
+
+Compare with the previous release: [v2.11.67...v2.11.68](https://github.com/corejslib/uws/compare/v2.11.67...v2.11.68)
+
 ### v2.11.67 (2026-07-06)
 
 **Other changes:**
