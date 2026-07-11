@@ -24,6 +24,6 @@
     },
     "dependencies": {
         "@corejslib/core": "^8.0.0",
-        "uws": "github:uNetworking/uWebSockets.js#semver:20.68.0"
+        "uws": "github:uNetworking/uWebSockets.js#semver:20.69.0"
     }
 }
