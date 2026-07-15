@@ -33,7 +33,7 @@ const meta = { "uws": "v" + ( await readConfig( cwd + "/package.json" ) ).versio
 const resources = [];
 
 for ( const file of globSync( "*.node", { cwd } ) ) {
-    const [ platform, architecture, node ] = path.basename( file ).replace( "uws_", "" ).replace( ".node", "" ).split( "_" );
+    const [ platform, architecture, node ] = path.basename( file ).replace( "uws_", "" ).replace( ".node", "" ).split( "_", 3 );
 
     if ( !ARCHITECTURES.has( architecture ) ) continue;
 
