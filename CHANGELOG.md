@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.11.72 (2026-07-15)
+
+**Other changes:**
+
+- style: lint (● [9ee02b2](https://github.com/corejslib/uws/commit/9ee02b2); 👬 zdm)
+
+Compare with the previous release: [v2.11.71...v2.11.72](https://github.com/corejslib/uws/compare/v2.11.71...v2.11.72)
+
 ### v2.11.71 (2026-07-11)
 
 **Other changes:**
