@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.11.79 (2026-08-16)
+
+**Bug fixes:**
+
+- \[PATCH] fix: fix glob api (● [3082749](https://github.com/corejslib/uws/commit/3082749); 👬 zdm)
+
+Compare with the previous release: [v2.11.78...v2.11.79](https://github.com/corejslib/uws/compare/v2.11.78...v2.11.79)
+
 ### v2.11.78 (2026-08-04)
 
 No changes since the previous release.
