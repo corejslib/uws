@@ -4,7 +4,7 @@ import path from "node:path";
 import Cli from "#core/cli";
 import { readConfig } from "#core/config";
 import ExternalResourceBuilder from "#core/external-resource-builder";
-import { globSync } from "#core/glob";
+import { globSync } from "#core/fs";
 import { resolve } from "#core/utils";
 import Uws from "#lib/uws";
 
