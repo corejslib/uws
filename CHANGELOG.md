@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.11.80 (2026-08-28)
+
+**Bug fixes:**
+
+- \[PATCH] fix: fix shebang (● [d95ff4d](https://github.com/corejslib/uws/commit/d95ff4d); 👬 zdm)
+
+Compare with the previous release: [v2.11.79...v2.11.80](https://github.com/corejslib/uws/compare/v2.11.79...v2.11.80)
+
 ### v2.11.79 (2026-08-16)
 
 **Bug fixes:**
