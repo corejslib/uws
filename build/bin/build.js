@@ -1,4 +1,4 @@
-#!/usr/bin/env node
+#!/usr/bin/env -S node
 
 import path from "node:path";
 import Cli from "#core/cli";
