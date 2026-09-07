@@ -8,7 +8,7 @@ externalResources.add( {
     "caller": import.meta.url,
 } );
 
-const res = await externalResources.install( {
+const res = await externalResources.update( {
     "force": false,
 } );
 
