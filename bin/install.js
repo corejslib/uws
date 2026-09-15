@@ -1,6 +1,6 @@
 #!/usr/bin/env -S node
 
-import externalResources from "#core/external-resources";
+import externalResources from "@corejslib/utils/external-resources";
 
 externalResources.add( {
     "id": "corejslib/uws",
