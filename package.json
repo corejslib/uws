@@ -14,6 +14,10 @@
     "license": "ISC",
     "author": "root <root@softvisio.net>",
     "type": "module",
+    "imports": {
+        "#core/*": "@corejslib/core/*",
+        "#lib/*": "./lib/*.js"
+    },
     "exports": {
         ".": "./lib/uws.js"
     },
@@ -28,6 +32,6 @@
         "install": "node bin/install.js"
     },
     "peerDependencies": {
-        "@corejslib/utils": "^2.0.0"
+        "@corejslib/core": "^8.0.0"
     }
 }
