@@ -28,6 +28,6 @@
         "install": "node bin/install.js"
     },
     "peerDependencies": {
-        "@corejslib/utils": "^2.0.0"
+        "@corejslib/utils": "^1.0.0"
     }
 }
