@@ -1,5 +1,17 @@
 # Changelog
 
+### v2.11.84 (2026-09-15)
+
+**Other changes:**
+
+- build(deps): align @corejslib/utils peer dependency (● [356884c](https://github.com/corejslib/uws/commit/356884c); 👬 zdm)
+
+- Revert "build(deps): switch to @corejslib/core imports" (● [0a38350](https://github.com/corejslib/uws/commit/0a38350); 👬 zdm)
+
+    This reverts commit [7d7a435](https://github.com/corejslib/uws/commit/7d7a435b85c43febe6e5a327455d97b0c270daf3).
+
+Compare with the previous release: [v2.11.83...v2.11.84](https://github.com/corejslib/uws/compare/v2.11.83...v2.11.84)
+
 ### v2.11.83 (2026-09-15)
 
 **Other changes:**
