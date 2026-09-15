@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.11.83 (2026-09-15)
+
+**Other changes:**
+
+- build(deps): switch to @corejslib/core imports (● [7d7a435](https://github.com/corejslib/uws/commit/7d7a435); 👬 zdm)
+
+Compare with the previous release: [v2.11.82...v2.11.83](https://github.com/corejslib/uws/compare/v2.11.82...v2.11.83)
+
 ### v2.11.82 (2026-09-07)
 
 **Code refactoring:**
